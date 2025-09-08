@@ -1,5 +1,6 @@
-This project was done in 2021, as part of the Neuromatch Computational Neuro workshop, team Stargazers. 
-(Special note: all image credits to [M. Abdollahi](https://github.com/m-abdollahi)
+This project was done in 2021, as part of the Neuromatch Computational Neuro workshop -- so credits to the entirety of team Stargazzers. 
+(Special note: All image credits to [M. Abdollahi](https://github.com/m-abdollahi), check out his other repos!)
+
 # Machine learning Approach for calcium imaging!
 this project is about using different machine learning techniques (Classic ML alghorithms, Deep learning, Ensemble learning, ...) in calcium imaganing data. \
 </br>
